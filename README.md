@@ -7,7 +7,7 @@ This is a version of Idobata's Tiqav bot, hubot. He's pretty cool.
     cp example.env .env
     vi .env
 
-# Starting bot
+# Start
 
     foreman start
 
