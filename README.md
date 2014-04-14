@@ -2,7 +2,7 @@
 
 This is a version of Idobata's Tiqav bot, hubot. He's pretty cool.
 
-* [ ] test
+[ ] test
 
 # Configuraiton
 
